@@ -54,6 +54,7 @@ Reviewing the T-tests for the suspension coiils shows they are not significantly
 
 In summary the data we have here is not enough to completely idenfity the factors around car purchase.  We need more data and more factors from additional prototypes and from competitors to better narrow our search. 
 
+Other data needed for future studies woudl include efficiency, horse power, maintenance, and safety.  We can use teh Anova test to compare various samples across competitors.  when p value is below .05 we can assess that our car is significantly different.  
 
 
 
